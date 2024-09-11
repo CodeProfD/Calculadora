@@ -1,0 +1,65 @@
+body {
+    background-image: url(fundo\ números.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin: 10;
+    padding: 10;
+}
+
+h1 {
+    color: #e80d77;
+    text-align: center;
+    border: 10px #000;
+}
+
+h4 {
+    color: rgb(209, 22, 22);
+    text-align: center;
+}
+
+div {
+    color: blueviolet;
+    border: 5px double;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+input {
+    color: darkgreen;
+    border: 5px double;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: bold;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    border-radius: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #ffffff;
+    background-color: #309139;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    transition: .4s;
+}
+
+button:hover {
+    color: #ffffff;
+
+    background-color: #414141;
+
+}
